@@ -1,0 +1,31 @@
+Usia,Pendapatan,Status_Perkawinan,Jumlah_Pinjaman,Durasi_Pinjaman,Status_Pekerjaan,Lulus_Kredit
+25,40,Belum Menikah,50,5,Karyawan Tetap,Tidak Layak
+45,100,Menikah,80,10,Wirausaha,Layak
+35,60,Menikah,100,15,Karyawan Kontrak,Tidak Layak
+28,75,Belum Menikah,60,7,Karyawan Tetap,Layak
+50,120,Menikah,150,20,Wirausaha,Layak
+30,50,Belum Menikah,40,4,Karyawan Kontrak,Tidak Layak
+38,90,Menikah,70,9,Wirausaha,Layak
+29,65,Menikah,55,6,Karyawan Tetap,Layak
+55,140,Menikah,200,25,Pensiunan,Layak
+40,85,Menikah,120,15,Wirausaha,Layak
+23,35,Belum Menikah,30,3,Karyawan Tetap,Tidak Layak
+33,70,Menikah,90,10,Karyawan Tetap,Layak
+60,130,Menikah,180,20,Pensiunan,Layak
+48,95,Menikah,85,12,Wirausaha,Layak
+32,55,Belum Menikah,45,5,Karyawan Kontrak,Tidak Layak
+41,80,Menikah,110,12,Wirausaha,Layak
+26,45,Belum Menikah,35,4,Karyawan Tetap,Tidak Layak
+53,125,Menikah,160,18,Pensiunan,Layak
+39,92,Menikah,95,10,Wirausaha,Layak
+47,100,Menikah,125,15,Wirausaha,Layak
+31,60,Belum Menikah,50,6,Karyawan Tetap,Tidak Layak
+42,110,Menikah,140,20,Wirausaha,Layak
+22,30,Belum Menikah,20,2,Karyawan Tetap,Tidak Layak
+36,95,Menikah,105,14,Karyawan Tetap,Layak
+49,105,Menikah,115,17,Wirausaha,Layak
+34,65,Menikah,65,8,Karyawan Tetap,Tidak Layak
+37,78,Menikah,75,11,Karyawan Tetap,Layak
+44,88,Menikah,100,15,Wirausaha,Layak
+46,110,Menikah,120,12,Karyawan Tetap,Layak
+27,52,Belum Menikah,48,6,Karyawan Tetap,Tidak Layak
