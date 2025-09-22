@@ -1,0 +1,501 @@
+PatientID,Age,Gender,Region,BMI,BloodPressure,Cholesterol,Diabetes,Smoking,ExerciseFreq,HospitalVisits,TreatmentCost,Satisfaction
+1,66,Laki-laki,Sulawesi,23.6,110,Normal,Tidak,Tidak,Kadang,1,2026000.0,5
+2,17,Laki-laki,Papua,27.4,176,Tinggi,Tidak,Tidak,Jarang,1,1114000.0,1
+3,83,Laki-laki,Sumatra,18.6,168,Tinggi,Tidak,Tidak,Rutin,2,1276000.0,4
+4,57,Laki-laki,Bali-Nusa,21.2,176,Normal,Tidak,Tidak,Rutin,2,2695000.0,5
+5,86,Laki-laki,Bali-Nusa,25.1,178,Normal,Tidak,Ya,Jarang,3,3026000.0,4
+6,47,Perempuan,Papua,31.8,103,Sangat Tinggi,Tidak,Tidak,Rutin,2,2464000.0,5
+7,73,Laki-laki,Papua,26.3,142,Tinggi,Tidak,Ya,Rutin,0,1325000.0,3
+8,32,Laki-laki,Bali-Nusa,29.0,156,Sangat Tinggi,Tidak,Tidak,Kadang,1,1641000.0,4
+9,46,Perempuan,Jawa,14.6,112,Tinggi,Tidak,Tidak,Rutin,3,1578000.0,1
+10,25,Laki-laki,Jawa,14.2,104,Normal,Tidak,Ya,Jarang,4,2422000.0,1
+11,83,Laki-laki,Kalimantan,22.0,126,Tinggi,Tidak,Tidak,Kadang,2,1490000.0,2
+12,78,Laki-laki,Kalimantan,28.6,159,Normal,Tidak,Ya,Rutin,1,2343000.0,1
+13,36,Laki-laki,Bali-Nusa,24.3,128,Tinggi,Ya,Tidak,Kadang,3,2714000.0,1
+14,80,Perempuan,Kalimantan,28.7,150,Normal,Tidak,Ya,Jarang,0,2351000.0,1
+15,68,Perempuan,Jawa,20.1,97,Normal,Tidak,Tidak,Rutin,1,1427000.0,1
+16,49,Perempuan,Sulawesi,19.6,164,Tinggi,Tidak,Tidak,Kadang,0,1926000.0,4
+17,55,Perempuan,Sumatra,26.4,176,Normal,Tidak,Tidak,Rutin,3,2296000.0,1
+18,67,Laki-laki,Sumatra,29.5,106,Normal,Tidak,Tidak,Jarang,4,3817000.0,1
+19,2,Laki-laki,Jawa,28.5,117,Normal,Tidak,Tidak,Jarang,0,2147000.0,2
+20,84,Laki-laki,Kalimantan,23.9,152,Sangat Tinggi,Tidak,Tidak,Jarang,2,2045000.0,3
+21,39,Perempuan,Kalimantan,24.0,176,Normal,Tidak,Tidak,Kadang,0,3015000.0,4
+22,66,Perempuan,Bali-Nusa,17.8,106,Tinggi,Tidak,Tidak,Jarang,2,3606000.0,5
+23,84,Laki-laki,Sumatra,26.3,158,Sangat Tinggi,Tidak,Tidak,Kadang,1,3300000.0,3
+24,47,Perempuan,Sulawesi,24.8,163,Normal,Tidak,Tidak,Rutin,4,427000.0,1
+25,61,Laki-laki,Sulawesi,24.4,107,Tinggi,Tidak,Tidak,Rutin,2,2194000.0,3
+26,48,Laki-laki,Bali-Nusa,31.3,148,Normal,Tidak,Ya,Kadang,2,2154000.0,5
+27,7,Laki-laki,Sulawesi,32.8,141,Normal,Ya,Tidak,Rutin,0,1693000.0,2
+28,52,Laki-laki,Papua,29.8,176,Tinggi,Ya,Ya,Jarang,5,990000.0,5
+29,85,Perempuan,Jawa,14.1,110,Normal,Ya,Tidak,Kadang,1,1775000.0,5
+30,27,Laki-laki,Sumatra,18.2,165,Tinggi,Tidak,Tidak,Jarang,2,2987000.0,1
+31,34,Laki-laki,Papua,17.9,155,Tinggi,Tidak,Ya,Jarang,5,2157000.0,5
+32,76,Laki-laki,Kalimantan,30.2,142,Sangat Tinggi,Ya,Tidak,Kadang,1,1509000.0,2
+33,40,Laki-laki,Jawa,26.1,128,Normal,Tidak,Tidak,Rutin,2,1186000.0,2
+34,3,Laki-laki,Jawa,15.4,113,Tinggi,Tidak,Tidak,Kadang,5,2626000.0,5
+35,69,Perempuan,Sulawesi,28.7,98,Sangat Tinggi,Tidak,Ya,Kadang,1,1729000.0,4
+36,64,Perempuan,Kalimantan,21.3,143,Tinggi,Tidak,Ya,Rutin,1,2883000.0,1
+37,75,Laki-laki,Papua,25.1,114,Tinggi,Tidak,Ya,Kadang,1,1964000.0,1
+38,34,Laki-laki,Sumatra,26.4,162,Normal,Tidak,Ya,Kadang,3,1109000.0,2
+39,58,Laki-laki,Jawa,21.2,113,Normal,Tidak,Tidak,Rutin,1,2487000.0,4
+40,10,Laki-laki,Papua,31.7,104,Tinggi,Ya,Tidak,Kadang,3,2582000.0,1
+41,22,Perempuan,Sulawesi,34.9,112,Tinggi,Tidak,Tidak,Jarang,1,1653000.0,3
+42,77,Perempuan,Kalimantan,28.0,107,Tinggi,Ya,Tidak,Rutin,1,1740000.0,5
+43,18,Laki-laki,Jawa,27.9,98,Normal,Ya,Tidak,Kadang,3,2778000.0,4
+44,15,Perempuan,Papua,33.6,179,Normal,Ya,Tidak,Rutin,2,3093000.0,3
+45,27,Laki-laki,Bali-Nusa,22.6,100,Normal,Tidak,Tidak,Jarang,3,2224000.0,5
+46,30,Laki-laki,Jawa,17.2,136,Sangat Tinggi,Tidak,Tidak,Kadang,2,1042000.0,4
+47,52,Laki-laki,Jawa,28.6,101,Tinggi,Ya,Tidak,Kadang,3,2768000.0,1
+48,70,Perempuan,Jawa,27.1,118,Normal,Tidak,Ya,Rutin,1,1859000.0,1
+49,26,Laki-laki,Sumatra,22.9,143,Normal,Tidak,Ya,Jarang,1,2106000.0,2
+50,80,Perempuan,Sulawesi,29.3,128,Normal,Tidak,Tidak,Jarang,3,1538000.0,4
+51,6,Laki-laki,Papua,11.8,99,Sangat Tinggi,Tidak,Tidak,Kadang,2,1732000.0,5
+52,14,Perempuan,Kalimantan,21.3,174,Normal,Tidak,Tidak,Rutin,3,1974000.0,5
+53,75,Laki-laki,Papua,23.1,95,Normal,Tidak,Ya,Rutin,1,1822000.0,4
+54,54,Laki-laki,Sulawesi,22.2,174,Tinggi,Tidak,Tidak,Rutin,5,1446000.0,2
+55,71,Perempuan,Bali-Nusa,17.9,138,Tinggi,Tidak,Ya,Rutin,0,998000.0,1
+56,1,Perempuan,Papua,21.5,100,Normal,Ya,Ya,Jarang,5,1635000.0,3
+57,43,Laki-laki,Bali-Nusa,28.5,126,Tinggi,Tidak,Tidak,Jarang,1,1013000.0,5
+58,58,Perempuan,Sulawesi,25.3,112,Tinggi,Tidak,Tidak,Rutin,3,273000.0,3
+59,55,Laki-laki,Jawa,25.5,172,Tinggi,Ya,Ya,Rutin,3,838000.0,2
+60,25,Laki-laki,Papua,30.6,158,Normal,Tidak,Tidak,Jarang,0,3393000.0,2
+61,50,Laki-laki,Sumatra,23.6,104,Normal,Tidak,Ya,Jarang,3,1521000.0,2
+62,84,Laki-laki,Sumatra,32.8,179,Normal,Tidak,Ya,Rutin,1,15000.0,1
+63,56,Laki-laki,Jawa,35.1,153,Sangat Tinggi,Tidak,Tidak,Rutin,1,1504000.0,2
+64,49,Laki-laki,Kalimantan,23.1,147,Normal,Tidak,Tidak,Jarang,0,582000.0,1
+65,12,Perempuan,Jawa,26.2,134,Tinggi,Ya,Tidak,Kadang,1,2957000.0,4
+66,18,Perempuan,Sulawesi,25.9,105,Sangat Tinggi,Ya,Ya,Jarang,1,2616000.0,1
+67,81,Laki-laki,Papua,22.1,143,Tinggi,Tidak,Tidak,Jarang,0,1330000.0,4
+68,1,Perempuan,Sumatra,29.8,169,Sangat Tinggi,Tidak,Ya,Rutin,1,980000.0,5
+69,51,Perempuan,Bali-Nusa,22.8,124,Tinggi,Tidak,Tidak,Kadang,2,2706000.0,5
+70,44,Laki-laki,Sulawesi,31.3,103,Sangat Tinggi,Tidak,Tidak,Kadang,2,2295000.0,4
+71,48,Perempuan,Bali-Nusa,25.2,143,Normal,Ya,Tidak,Jarang,2,113000.0,1
+72,56,Perempuan,Jawa,23.7,133,Normal,Tidak,Tidak,Kadang,2,1765000.0,3
+73,49,Laki-laki,Sumatra,23.3,170,Normal,Tidak,Tidak,Kadang,5,1382000.0,4
+74,86,Perempuan,Sulawesi,20.1,161,Tinggi,Tidak,Ya,Kadang,1,2751000.0,4
+75,3,Laki-laki,Jawa,24.3,179,Normal,Tidak,Tidak,Jarang,3,2892000.0,2
+76,67,Perempuan,Jawa,24.6,132,Tinggi,Tidak,Ya,Jarang,2,1935000.0,1
+77,11,Perempuan,Kalimantan,15.4,112,Tinggi,Tidak,Tidak,Kadang,1,2654000.0,5
+78,21,Perempuan,Sumatra,22.0,161,Sangat Tinggi,Tidak,Tidak,Jarang,1,1929000.0,1
+79,89,Laki-laki,Bali-Nusa,21.7,90,Sangat Tinggi,Ya,Tidak,Jarang,1,1027000.0,3
+80,3,Perempuan,Sulawesi,19.8,172,Tinggi,Tidak,Tidak,Jarang,1,3230000.0,3
+81,11,Laki-laki,Kalimantan,15.5,157,Normal,Ya,Tidak,Rutin,2,2267000.0,4
+82,3,Perempuan,Papua,19.8,141,Normal,Tidak,Ya,Kadang,4,3216000.0,1
+83,6,Perempuan,Kalimantan,29.2,136,Tinggi,Tidak,Tidak,Jarang,1,1176000.0,3
+84,9,Laki-laki,Bali-Nusa,29.7,166,Normal,Tidak,Tidak,Rutin,2,2101000.0,3
+85,87,Laki-laki,Jawa,39.2,107,Tinggi,Tidak,Tidak,Kadang,1,1307000.0,1
+86,14,Perempuan,Papua,21.6,158,Normal,Tidak,Tidak,Jarang,3,853000.0,5
+87,83,Laki-laki,Jawa,26.0,133,Normal,Tidak,Ya,Kadang,0,3600000.0,1
+88,70,Perempuan,Sulawesi,26.9,137,Sangat Tinggi,Tidak,Ya,Jarang,4,2040000.0,1
+89,12,Perempuan,Kalimantan,19.9,107,Tinggi,Tidak,Tidak,Kadang,2,3632000.0,3
+90,54,Perempuan,Sulawesi,19.8,110,Tinggi,Tidak,Tidak,Jarang,2,1613000.0,3
+91,27,Perempuan,Kalimantan,11.4,154,Normal,Tidak,Tidak,Kadang,0,2568000.0,2
+92,38,Perempuan,Sulawesi,23.7,110,Normal,Ya,Ya,Kadang,2,2840000.0,1
+93,17,Perempuan,Jawa,19.7,116,Tinggi,Ya,Ya,Rutin,4,2261000.0,5
+94,61,Laki-laki,Bali-Nusa,17.9,121,Normal,Tidak,Tidak,Jarang,0,2550000.0,5
+95,74,Laki-laki,Papua,21.4,109,Normal,Tidak,Tidak,Kadang,8,2610000.0,3
+96,65,Laki-laki,Papua,17.4,135,Tinggi,Tidak,Ya,Kadang,4,3073000.0,3
+97,47,Laki-laki,Papua,24.0,154,Normal,Tidak,Tidak,Jarang,4,2831000.0,5
+98,16,Perempuan,Jawa,21.8,109,Normal,Ya,Tidak,Kadang,1,2160000.0,2
+99,5,Perempuan,Sulawesi,12.4,119,Normal,Tidak,Tidak,Rutin,0,2479000.0,4
+100,86,Laki-laki,Jawa,20.6,157,Normal,Tidak,Tidak,Rutin,1,2805000.0,1
+101,46,Perempuan,Sulawesi,33.5,107,Normal,Tidak,Ya,Kadang,4,239000.0,5
+102,15,Perempuan,Sulawesi,20.7,160,Normal,Ya,Tidak,Rutin,3,924000.0,4
+103,59,Perempuan,Jawa,21.2,105,Tinggi,Tidak,Tidak,Rutin,2,2899000.0,2
+104,40,Perempuan,Sulawesi,15.2,171,Sangat Tinggi,Tidak,Ya,Jarang,0,1295000.0,2
+105,25,Laki-laki,Bali-Nusa,25.2,122,Normal,Tidak,Ya,Kadang,1,2432000.0,4
+106,45,Perempuan,Papua,29.6,125,Tinggi,Tidak,Ya,Kadang,4,2291000.0,4
+107,49,Perempuan,Sulawesi,29.7,107,Normal,Tidak,Tidak,Jarang,0,1656000.0,4
+108,0,Perempuan,Sulawesi,24.1,116,Tinggi,Tidak,Tidak,Rutin,1,1787000.0,3
+109,35,Perempuan,Sumatra,28.9,176,Normal,Tidak,Ya,Kadang,4,2726000.0,1
+110,29,Laki-laki,Papua,22.9,100,Sangat Tinggi,Tidak,Ya,Rutin,2,513000.0,2
+111,1,Perempuan,Papua,33.2,126,Tinggi,Tidak,Ya,Rutin,2,1561000.0,4
+112,83,Perempuan,Kalimantan,25.1,132,Normal,Ya,Tidak,Kadang,1,1269000.0,3
+113,68,Perempuan,Sumatra,25.1,159,Normal,Tidak,Tidak,Rutin,1,3387000.0,5
+114,30,Laki-laki,Papua,26.6,111,Normal,Tidak,Tidak,Jarang,0,1147000.0,2
+115,7,Laki-laki,Sumatra,15.8,122,Normal,Tidak,Tidak,Rutin,0,2372000.0,3
+116,60,Perempuan,Papua,20.5,100,Normal,Tidak,Tidak,Kadang,3,2094000.0,3
+117,65,Laki-laki,Kalimantan,21.9,121,Tinggi,Ya,Ya,Kadang,2,2363000.0,4
+118,76,Laki-laki,Jawa,26.3,163,Tinggi,Tidak,Ya,Jarang,0,1884000.0,3
+119,67,Laki-laki,Sumatra,21.6,95,Tinggi,Tidak,Ya,Kadang,2,1583000.0,1
+120,44,Perempuan,Sumatra,31.4,173,Normal,Ya,Tidak,Kadang,2,1761000.0,1
+121,51,Perempuan,Kalimantan,25.0,116,Normal,Tidak,Tidak,Kadang,0,1570000.0,5
+122,7,Perempuan,Sulawesi,27.4,102,Normal,Ya,Tidak,Kadang,2,1741000.0,4
+123,88,Perempuan,Jawa,30.1,158,Normal,Tidak,Tidak,Kadang,1,2474000.0,2
+124,70,Perempuan,Sumatra,23.1,132,Sangat Tinggi,Tidak,Tidak,Kadang,5,3653000.0,4
+125,13,Laki-laki,Jawa,32.5,91,Sangat Tinggi,Tidak,Ya,Kadang,2,2067000.0,3
+126,28,Laki-laki,Sulawesi,17.8,140,Tinggi,Tidak,Tidak,Jarang,2,1158000.0,4
+127,63,Laki-laki,Bali-Nusa,29.7,155,Tinggi,Tidak,Tidak,Kadang,2,648000.0,5
+128,84,Laki-laki,Sulawesi,25.5,170,Normal,Tidak,Ya,Rutin,2,421000.0,1
+129,36,Perempuan,Kalimantan,22.5,176,Sangat Tinggi,Tidak,Tidak,Rutin,5,2563000.0,5
+130,40,Laki-laki,Sulawesi,17.1,164,Normal,Ya,Tidak,Rutin,2,2331000.0,3
+131,88,Laki-laki,Papua,25.7,143,Normal,Ya,Tidak,Jarang,0,2518000.0,5
+132,63,Laki-laki,Sulawesi,26.9,177,Normal,Tidak,Tidak,Jarang,1,2025000.0,2
+133,58,Perempuan,Sulawesi,31.9,135,Sangat Tinggi,Tidak,Tidak,Kadang,2,3192000.0,5
+134,77,Perempuan,Sumatra,27.9,169,Normal,Tidak,Tidak,Rutin,2,1403000.0,2
+135,8,Laki-laki,Kalimantan,21.0,160,Sangat Tinggi,Tidak,Tidak,Kadang,0,2005000.0,5
+136,78,Laki-laki,Papua,15.6,100,Tinggi,Ya,Tidak,Kadang,0,2072000.0,3
+137,6,Perempuan,Jawa,26.7,149,Tinggi,Tidak,Ya,Kadang,0,2012000.0,1
+138,65,Perempuan,Kalimantan,22.9,125,Tinggi,Ya,Ya,Jarang,4,1897000.0,2
+139,70,Perempuan,Bali-Nusa,26.6,97,Tinggi,Tidak,Tidak,Rutin,1,1681000.0,4
+140,40,Perempuan,Papua,25.6,116,Normal,Tidak,Tidak,Jarang,1,525000.0,4
+141,74,Laki-laki,Papua,24.1,133,Tinggi,Tidak,Tidak,Jarang,3,938000.0,2
+142,76,Perempuan,Sumatra,17.7,116,Tinggi,Tidak,Ya,Kadang,2,2109000.0,4
+143,76,Perempuan,Sumatra,21.6,135,Normal,Tidak,Tidak,Kadang,2,897000.0,4
+144,25,Laki-laki,Papua,25.1,160,Tinggi,Tidak,Tidak,Kadang,1,2411000.0,5
+145,7,Perempuan,Jawa,21.2,136,Normal,Tidak,Tidak,Kadang,1,1781000.0,5
+146,13,Perempuan,Jawa,26.6,92,Sangat Tinggi,Tidak,Ya,Kadang,3,1230000.0,1
+147,44,Laki-laki,Jawa,29.6,135,Tinggi,Tidak,Tidak,Kadang,2,3134000.0,2
+148,1,Perempuan,Bali-Nusa,17.9,95,Sangat Tinggi,Tidak,Tidak,Kadang,0,2774000.0,5
+149,41,Perempuan,Sulawesi,25.9,148,Normal,Tidak,Tidak,Rutin,5,2307000.0,1
+150,78,Perempuan,Kalimantan,19.4,107,Normal,Tidak,Tidak,Kadang,2,214000.0,2
+151,56,Perempuan,Sulawesi,28.6,154,Normal,Ya,Tidak,Rutin,1,3986000.0,2
+152,87,Laki-laki,Papua,19.9,92,Normal,Tidak,Tidak,Kadang,2,737000.0,2
+153,63,Laki-laki,Jawa,29.0,156,Normal,Tidak,Tidak,Jarang,1,2291000.0,1
+154,3,Perempuan,Bali-Nusa,23.1,110,Tinggi,Tidak,Tidak,Rutin,0,1464000.0,3
+155,17,Perempuan,Jawa,12.1,91,Normal,Ya,Tidak,Rutin,1,1696000.0,3
+156,88,Laki-laki,Papua,34.2,162,Sangat Tinggi,Ya,Ya,Rutin,3,3370000.0,4
+157,87,Laki-laki,Kalimantan,27.9,100,Normal,Ya,Ya,Kadang,2,3112000.0,2
+158,69,Laki-laki,Papua,25.9,129,Sangat Tinggi,Tidak,Tidak,Kadang,1,3709000.0,4
+159,50,Laki-laki,Papua,27.6,100,Tinggi,Tidak,Tidak,Kadang,3,852000.0,4
+160,2,Perempuan,Jawa,24.0,103,Sangat Tinggi,Tidak,Tidak,Kadang,1,1847000.0,3
+161,18,Perempuan,Jawa,24.8,90,Normal,Tidak,Tidak,Rutin,2,1842000.0,4
+162,46,Perempuan,Bali-Nusa,26.0,130,Normal,Tidak,Tidak,Rutin,2,1254000.0,4
+163,45,Perempuan,Kalimantan,21.9,110,Normal,Tidak,Tidak,Kadang,2,1681000.0,5
+164,57,Laki-laki,Sumatra,30.1,171,Tinggi,Tidak,Tidak,Kadang,1,2594000.0,2
+165,35,Laki-laki,Jawa,30.6,108,Tinggi,Tidak,Ya,Kadang,1,975000.0,1
+166,18,Perempuan,Sumatra,23.7,145,Normal,Tidak,Tidak,Kadang,2,2732000.0,1
+167,46,Perempuan,Jawa,26.3,133,Normal,Tidak,Ya,Jarang,1,1326000.0,5
+168,54,Laki-laki,Kalimantan,20.7,161,Tinggi,Tidak,Tidak,Rutin,3,1282000.0,1
+169,73,Laki-laki,Bali-Nusa,29.5,94,Tinggi,Tidak,Tidak,Rutin,1,1176000.0,4
+170,81,Laki-laki,Bali-Nusa,13.7,146,Sangat Tinggi,Tidak,Tidak,Kadang,0,2009000.0,4
+171,62,Perempuan,Sulawesi,19.0,153,Normal,Ya,Tidak,Kadang,3,2552000.0,3
+172,67,Laki-laki,Jawa,20.7,134,Normal,Tidak,Tidak,Rutin,1,850000.0,4
+173,11,Laki-laki,Papua,22.5,164,Normal,Tidak,Tidak,Rutin,1,1762000.0,3
+174,26,Perempuan,Kalimantan,33.8,172,Normal,Tidak,Tidak,Rutin,3,1194000.0,4
+175,75,Perempuan,Sumatra,17.2,90,Normal,Tidak,Tidak,Rutin,1,2022000.0,4
+176,10,Perempuan,Jawa,24.7,90,Sangat Tinggi,Ya,Tidak,Rutin,3,2511000.0,4
+177,3,Perempuan,Sulawesi,28.0,108,Tinggi,Tidak,Tidak,Jarang,0,1851000.0,3
+178,45,Laki-laki,Sulawesi,20.6,151,Sangat Tinggi,Tidak,Tidak,Rutin,2,1769000.0,4
+179,58,Laki-laki,Sulawesi,28.0,165,Sangat Tinggi,Tidak,Tidak,Jarang,5,1288000.0,3
+180,59,Laki-laki,Jawa,21.3,115,Normal,Ya,Ya,Kadang,2,2655000.0,5
+181,23,Perempuan,Bali-Nusa,25.0,102,Tinggi,Tidak,Ya,Rutin,3,1772000.0,5
+182,25,Laki-laki,Sulawesi,14.6,174,Normal,Ya,Tidak,Jarang,3,305000.0,3
+183,27,Laki-laki,Papua,20.7,147,Tinggi,Tidak,Tidak,Kadang,1,2113000.0,2
+184,57,Laki-laki,Sumatra,20.3,90,Normal,Tidak,Ya,Rutin,0,2057000.0,4
+185,3,Laki-laki,Bali-Nusa,33.9,137,Normal,Tidak,Ya,Rutin,3,2113000.0,4
+186,78,Perempuan,Sumatra,40.7,165,Normal,Tidak,Ya,Kadang,2,2151000.0,3
+187,85,Perempuan,Papua,22.6,139,Normal,Tidak,Tidak,Jarang,3,2410000.0,1
+188,59,Perempuan,Sumatra,25.9,106,Normal,Tidak,Tidak,Kadang,3,1728000.0,3
+189,48,Laki-laki,Sulawesi,9.2,178,Normal,Tidak,Ya,Kadang,0,1971000.0,2
+190,56,Perempuan,Sulawesi,17.4,126,Tinggi,Ya,Tidak,Kadang,2,1913000.0,5
+191,87,Laki-laki,Papua,16.9,115,Normal,Tidak,Ya,Jarang,3,1746000.0,5
+192,87,Perempuan,Kalimantan,26.5,165,Tinggi,Tidak,Ya,Kadang,2,2669000.0,5
+193,4,Laki-laki,Papua,19.7,129,Tinggi,Tidak,Ya,Jarang,3,2887000.0,5
+194,69,Laki-laki,Papua,29.2,102,Sangat Tinggi,Tidak,Tidak,Jarang,0,3087000.0,3
+195,56,Perempuan,Jawa,27.6,173,Normal,Ya,Ya,Rutin,0,1312000.0,2
+196,60,Perempuan,Jawa,21.6,136,Normal,Ya,Tidak,Jarang,2,2184000.0,5
+197,9,Perempuan,Kalimantan,19.9,130,Tinggi,Ya,Tidak,Rutin,2,1116000.0,1
+198,66,Laki-laki,Papua,22.9,138,Tinggi,Tidak,Ya,Rutin,1,1802000.0,5
+199,33,Perempuan,Jawa,33.9,118,Normal,Tidak,Ya,Rutin,4,1360000.0,3
+200,69,Laki-laki,Papua,20.9,152,Normal,Tidak,Tidak,Kadang,1,1975000.0,3
+201,9,Laki-laki,Kalimantan,13.3,121,Tinggi,Ya,Ya,Jarang,1,774000.0,4
+202,79,Perempuan,Jawa,23.5,122,Normal,Ya,Ya,Jarang,4,2614000.0,5
+203,28,Perempuan,Jawa,24.9,95,Tinggi,Tidak,Ya,Kadang,0,2270000.0,3
+204,66,Perempuan,Sumatra,25.2,168,Normal,Tidak,Tidak,Kadang,1,2056000.0,1
+205,10,Perempuan,Bali-Nusa,19.7,93,Normal,Tidak,Tidak,Rutin,1,1934000.0,4
+206,3,Laki-laki,Sulawesi,23.8,140,Normal,Tidak,Tidak,Jarang,2,3215000.0,1
+207,48,Perempuan,Papua,21.4,104,Sangat Tinggi,Tidak,Tidak,Rutin,3,2647000.0,4
+208,3,Perempuan,Kalimantan,33.5,136,Tinggi,Tidak,Tidak,Jarang,1,254000.0,4
+209,23,Perempuan,Papua,21.4,173,Normal,Tidak,Tidak,Jarang,0,2309000.0,2
+210,55,Perempuan,Papua,22.3,107,Tinggi,Tidak,Tidak,Kadang,2,3154000.0,1
+211,34,Perempuan,Papua,29.8,128,Tinggi,Ya,Tidak,Jarang,2,2191000.0,3
+212,37,Laki-laki,Kalimantan,17.6,163,Normal,Tidak,Tidak,Kadang,1,2454000.0,2
+213,49,Laki-laki,Sulawesi,25.7,92,Sangat Tinggi,Tidak,Ya,Rutin,2,1649000.0,1
+214,87,Laki-laki,Papua,23.8,114,Tinggi,Tidak,Tidak,Kadang,4,3926000.0,2
+215,85,Laki-laki,Bali-Nusa,19.6,142,Sangat Tinggi,Tidak,Tidak,Kadang,2,2616000.0,1
+216,25,Laki-laki,Jawa,18.1,137,Sangat Tinggi,Tidak,Tidak,Jarang,0,1724000.0,5
+217,17,Laki-laki,Sumatra,28.1,174,Tinggi,Tidak,Ya,Rutin,3,2797000.0,1
+218,58,Perempuan,Sulawesi,28.4,104,Tinggi,Tidak,Tidak,Kadang,2,1247000.0,2
+219,66,Laki-laki,Sulawesi,25.5,93,Tinggi,Tidak,Ya,Kadang,2,1499000.0,1
+220,45,Perempuan,Papua,16.4,116,Sangat Tinggi,Tidak,Ya,Jarang,1,1393000.0,5
+221,10,Laki-laki,Kalimantan,26.5,100,Normal,Tidak,Tidak,Jarang,5,1192000.0,4
+222,8,Perempuan,Sulawesi,20.2,114,Tinggi,Tidak,Tidak,Kadang,5,769000.0,4
+223,25,Laki-laki,Sumatra,27.7,147,Sangat Tinggi,Tidak,Ya,Kadang,3,3734000.0,5
+224,67,Perempuan,Sumatra,24.6,119,Sangat Tinggi,Tidak,Ya,Kadang,3,1531000.0,3
+225,65,Perempuan,Bali-Nusa,26.9,124,Normal,Tidak,Tidak,Kadang,4,3044000.0,5
+226,7,Perempuan,Bali-Nusa,29.7,102,Sangat Tinggi,Tidak,Tidak,Rutin,1,2983000.0,3
+227,70,Perempuan,Kalimantan,27.3,133,Tinggi,Tidak,Ya,Jarang,3,2035000.0,5
+228,39,Perempuan,Papua,23.2,114,Tinggi,Tidak,Ya,Jarang,1,2583000.0,2
+229,82,Laki-laki,Sumatra,34.0,95,Normal,Tidak,Tidak,Rutin,3,1918000.0,5
+230,38,Perempuan,Jawa,28.2,163,Tinggi,Tidak,Ya,Jarang,2,3006000.0,1
+231,5,Laki-laki,Sumatra,24.8,140,Tinggi,Tidak,Tidak,Rutin,4,2848000.0,3
+232,9,Perempuan,Bali-Nusa,16.1,109,Normal,Tidak,Tidak,Kadang,2,2285000.0,2
+233,40,Laki-laki,Sulawesi,19.8,105,Tinggi,Tidak,Ya,Kadang,0,2238000.0,4
+234,68,Perempuan,Papua,32.7,145,Tinggi,Tidak,Ya,Jarang,1,2548000.0,2
+235,87,Laki-laki,Bali-Nusa,24.8,160,Normal,Tidak,Tidak,Kadang,2,2550000.0,2
+236,21,Laki-laki,Sulawesi,20.8,156,Tinggi,Tidak,Tidak,Kadang,0,1681000.0,3
+237,89,Laki-laki,Sumatra,22.8,129,Tinggi,Tidak,Tidak,Rutin,2,1676000.0,1
+238,50,Perempuan,Bali-Nusa,27.7,143,Tinggi,Tidak,Tidak,Rutin,2,3246000.0,2
+239,36,Laki-laki,Bali-Nusa,29.7,121,Tinggi,Tidak,Ya,Kadang,2,870000.0,5
+240,44,Laki-laki,Kalimantan,22.0,129,Tinggi,Ya,Tidak,Kadang,3,1441000.0,5
+241,83,Laki-laki,Sulawesi,28.8,93,Tinggi,Tidak,Tidak,Rutin,4,1784000.0,4
+242,81,Laki-laki,Bali-Nusa,25.7,104,Sangat Tinggi,Ya,Ya,Rutin,5,2001000.0,3
+243,61,Laki-laki,Sulawesi,26.3,134,Tinggi,Ya,Tidak,Jarang,3,2251000.0,5
+244,14,Perempuan,Kalimantan,17.3,172,Tinggi,Tidak,Tidak,Rutin,1,1878000.0,3
+245,78,Laki-laki,Jawa,30.6,158,Normal,Tidak,Tidak,Kadang,2,3514000.0,2
+246,23,Perempuan,Sumatra,22.1,93,Normal,Tidak,Tidak,Jarang,1,2000000.0,1
+247,62,Perempuan,Kalimantan,10.9,136,Tinggi,Tidak,Ya,Kadang,1,2819000.0,5
+248,28,Perempuan,Kalimantan,20.9,120,Tinggi,Ya,Ya,Kadang,2,1160000.0,1
+249,80,Perempuan,Papua,24.1,140,Normal,Tidak,Tidak,Rutin,4,2846000.0,3
+250,24,Perempuan,Sulawesi,7.7,112,Normal,Tidak,Ya,Kadang,1,1777000.0,1
+251,15,Perempuan,Sumatra,34.8,118,Sangat Tinggi,Tidak,Tidak,Rutin,0,2253000.0,1
+252,49,Perempuan,Bali-Nusa,22.9,152,Tinggi,Tidak,Ya,Jarang,3,2546000.0,2
+253,80,Laki-laki,Bali-Nusa,23.0,132,Tinggi,Ya,Tidak,Kadang,3,1887000.0,4
+254,84,Perempuan,Kalimantan,22.5,139,Normal,Tidak,Tidak,Kadang,3,2482000.0,1
+255,4,Laki-laki,Sumatra,22.5,113,Normal,Tidak,Tidak,Kadang,3,1604000.0,3
+256,21,Perempuan,Bali-Nusa,27.5,99,Normal,Tidak,Tidak,Rutin,3,2592000.0,1
+257,32,Perempuan,Sulawesi,20.7,119,Normal,Tidak,Tidak,Rutin,0,1720000.0,4
+258,39,Laki-laki,Sulawesi,21.9,176,Sangat Tinggi,Tidak,Ya,Kadang,1,3003000.0,5
+259,1,Perempuan,Sumatra,21.4,128,Normal,Tidak,Ya,Kadang,4,2689000.0,2
+260,82,Laki-laki,Bali-Nusa,27.3,149,Tinggi,Ya,Tidak,Kadang,1,2652000.0,5
+261,35,Perempuan,Jawa,21.0,174,Tinggi,Tidak,Tidak,Kadang,1,2544000.0,2
+262,58,Perempuan,Jawa,27.3,146,Tinggi,Tidak,Tidak,Kadang,2,1501000.0,2
+263,38,Perempuan,Bali-Nusa,34.1,90,Normal,Tidak,Ya,Kadang,1,1706000.0,2
+264,1,Perempuan,Bali-Nusa,27.0,163,Tinggi,Tidak,Tidak,Jarang,6,562000.0,3
+265,52,Perempuan,Bali-Nusa,22.6,118,Tinggi,Tidak,Tidak,Rutin,2,2000000.0,4
+266,17,Laki-laki,Bali-Nusa,20.6,120,Normal,Ya,Tidak,Rutin,1,2207000.0,1
+267,45,Perempuan,Papua,22.2,164,Normal,Tidak,Tidak,Kadang,3,1862000.0,4
+268,22,Perempuan,Sumatra,28.4,132,Tinggi,Tidak,Ya,Rutin,2,1817000.0,5
+269,53,Perempuan,Sulawesi,31.7,139,Tinggi,Tidak,Tidak,Kadang,2,3261000.0,1
+270,89,Perempuan,Papua,24.0,111,Normal,Tidak,Tidak,Rutin,2,711000.0,3
+271,74,Perempuan,Kalimantan,22.5,114,Normal,Tidak,Ya,Jarang,0,987000.0,1
+272,0,Perempuan,Sulawesi,21.1,114,Normal,Tidak,Ya,Kadang,1,2412000.0,5
+273,35,Laki-laki,Papua,28.4,153,Sangat Tinggi,Tidak,Tidak,Kadang,1,652000.0,3
+274,83,Perempuan,Sumatra,24.0,114,Normal,Tidak,Tidak,Jarang,4,2388000.0,1
+275,71,Laki-laki,Bali-Nusa,31.6,139,Normal,Tidak,Tidak,Kadang,3,1531000.0,5
+276,39,Perempuan,Kalimantan,34.3,124,Tinggi,Tidak,Tidak,Kadang,0,1807000.0,4
+277,87,Perempuan,Sumatra,21.2,136,Tinggi,Tidak,Tidak,Kadang,3,1631000.0,5
+278,83,Perempuan,Bali-Nusa,31.6,133,Normal,Ya,Ya,Rutin,3,1845000.0,1
+279,78,Laki-laki,Sumatra,26.2,170,Normal,Ya,Tidak,Rutin,6,4162000.0,4
+280,29,Laki-laki,Sulawesi,30.0,143,Tinggi,Tidak,Tidak,Rutin,1,2037000.0,4
+281,19,Laki-laki,Bali-Nusa,18.6,162,Normal,Tidak,Tidak,Jarang,3,1706000.0,3
+282,37,Perempuan,Bali-Nusa,25.0,100,Tinggi,Ya,Tidak,Jarang,5,1812000.0,1
+283,1,Perempuan,Jawa,18.5,101,Normal,Ya,Ya,Jarang,3,2215000.0,5
+284,5,Perempuan,Kalimantan,29.7,113,Tinggi,Tidak,Tidak,Kadang,2,3128000.0,1
+285,81,Laki-laki,Sulawesi,21.0,116,Normal,Tidak,Tidak,Kadang,3,1908000.0,5
+286,35,Laki-laki,Jawa,21.4,111,Normal,Tidak,Ya,Kadang,1,2417000.0,4
+287,77,Perempuan,Sumatra,14.8,95,Normal,Tidak,Tidak,Jarang,2,827000.0,1
+288,25,Perempuan,Kalimantan,22.4,158,Tinggi,Ya,Tidak,Kadang,1,2447000.0,4
+289,70,Laki-laki,Jawa,29.3,150,Sangat Tinggi,Tidak,Tidak,Kadang,0,2673000.0,2
+290,58,Perempuan,Sulawesi,22.3,146,Sangat Tinggi,Tidak,Ya,Kadang,4,3175000.0,1
+291,29,Perempuan,Kalimantan,34.7,140,Tinggi,Ya,Tidak,Kadang,2,1595000.0,3
+292,81,Perempuan,Papua,23.5,98,Normal,Tidak,Tidak,Jarang,1,1665000.0,2
+293,21,Perempuan,Bali-Nusa,33.2,120,Normal,Ya,Tidak,Jarang,1,1575000.0,5
+294,16,Laki-laki,Jawa,18.8,169,Normal,Tidak,Tidak,Kadang,1,1868000.0,2
+295,30,Perempuan,Papua,20.8,126,Tinggi,Tidak,Ya,Jarang,4,3480000.0,4
+296,55,Laki-laki,Sulawesi,25.0,172,Normal,Tidak,Tidak,Rutin,1,1715000.0,1
+297,80,Laki-laki,Papua,20.2,113,Sangat Tinggi,Tidak,Ya,Kadang,4,3027000.0,3
+298,30,Laki-laki,Bali-Nusa,27.8,101,Sangat Tinggi,Tidak,Tidak,Jarang,2,1146000.0,5
+299,12,Perempuan,Jawa,26.3,100,Normal,Tidak,Ya,Rutin,3,2656000.0,2
+300,83,Laki-laki,Sulawesi,27.8,178,Normal,Ya,Tidak,Kadang,2,1637000.0,4
+301,16,Perempuan,Sulawesi,24.9,112,Sangat Tinggi,Tidak,Ya,Rutin,2,2413000.0,3
+302,38,Perempuan,Papua,24.6,123,Tinggi,Tidak,Tidak,Jarang,1,2946000.0,4
+303,7,Laki-laki,Kalimantan,20.7,104,Normal,Tidak,Ya,Rutin,3,2601000.0,5
+304,37,Perempuan,Kalimantan,22.3,146,Normal,Tidak,Tidak,Rutin,2,1180000.0,3
+305,14,Perempuan,Bali-Nusa,30.5,132,Tinggi,Tidak,Tidak,Kadang,4,798000.0,4
+306,0,Perempuan,Jawa,21.7,92,Normal,Tidak,Ya,Rutin,2,2269000.0,4
+307,2,Perempuan,Jawa,28.1,167,Sangat Tinggi,Ya,Ya,Jarang,4,1854000.0,4
+308,37,Perempuan,Kalimantan,25.5,109,Tinggi,Tidak,Tidak,Jarang,0,824000.0,5
+309,47,Laki-laki,Kalimantan,29.2,146,Tinggi,Tidak,Tidak,Jarang,0,1079000.0,4
+310,62,Perempuan,Kalimantan,27.8,138,Sangat Tinggi,Tidak,Tidak,Rutin,0,1075000.0,3
+311,61,Laki-laki,Jawa,28.9,115,Normal,Tidak,Ya,Kadang,3,1843000.0,5
+312,14,Laki-laki,Sumatra,28.5,133,Normal,Tidak,Ya,Jarang,1,2666000.0,3
+313,61,Perempuan,Jawa,26.8,126,Sangat Tinggi,Ya,Tidak,Rutin,2,1810000.0,3
+314,81,Laki-laki,Kalimantan,24.4,157,Normal,Tidak,Ya,Kadang,1,1302000.0,2
+315,37,Perempuan,Sumatra,29.2,148,Sangat Tinggi,Tidak,Ya,Kadang,1,1323000.0,4
+316,19,Perempuan,Bali-Nusa,17.9,141,Normal,Ya,Tidak,Jarang,2,2893000.0,3
+317,58,Perempuan,Sulawesi,21.4,140,Normal,Tidak,Tidak,Kadang,1,1786000.0,2
+318,6,Perempuan,Jawa,17.1,143,Tinggi,Tidak,Ya,Kadang,2,2107000.0,1
+319,71,Laki-laki,Jawa,23.2,146,Normal,Ya,Tidak,Jarang,4,1696000.0,1
+320,77,Perempuan,Kalimantan,22.1,112,Normal,Tidak,Tidak,Rutin,1,2063000.0,1
+321,78,Perempuan,Bali-Nusa,13.5,136,Tinggi,Tidak,Tidak,Kadang,2,1508000.0,2
+322,70,Laki-laki,Sumatra,21.3,178,Tinggi,Tidak,Tidak,Kadang,2,2483000.0,4
+323,51,Perempuan,Papua,20.3,125,Normal,Tidak,Tidak,Kadang,3,2594000.0,5
+324,3,Perempuan,Bali-Nusa,18.6,166,Tinggi,Ya,Tidak,Kadang,3,1626000.0,3
+325,0,Laki-laki,Papua,24.4,140,Tinggi,Ya,Tidak,Jarang,2,2652000.0,1
+326,77,Laki-laki,Sumatra,24.8,138,Normal,Tidak,Tidak,Jarang,2,3020000.0,3
+327,37,Perempuan,Papua,21.1,163,Normal,Ya,Ya,Kadang,1,2182000.0,4
+328,52,Laki-laki,Sulawesi,30.8,140,Sangat Tinggi,Tidak,Tidak,Kadang,2,1933000.0,5
+329,83,Laki-laki,Bali-Nusa,30.4,166,Tinggi,Tidak,Tidak,Kadang,1,2398000.0,4
+330,2,Laki-laki,Sulawesi,30.7,156,Normal,Tidak,Tidak,Kadang,5,3437000.0,2
+331,14,Perempuan,Jawa,33.3,108,Normal,Tidak,Tidak,Jarang,1,2827000.0,3
+332,2,Perempuan,Papua,21.0,143,Normal,Ya,Ya,Rutin,1,2936000.0,4
+333,32,Perempuan,Kalimantan,23.7,171,Normal,Ya,Ya,Jarang,3,1809000.0,5
+334,82,Perempuan,Jawa,14.1,127,Normal,Tidak,Tidak,Rutin,1,2354000.0,4
+335,55,Perempuan,Sumatra,27.4,148,Sangat Tinggi,Tidak,Tidak,Jarang,2,1658000.0,5
+336,32,Laki-laki,Sulawesi,23.7,109,Sangat Tinggi,Tidak,Tidak,Kadang,4,3142000.0,2
+337,30,Perempuan,Kalimantan,19.6,102,Tinggi,Tidak,Tidak,Kadang,3,2546000.0,3
+338,3,Laki-laki,Kalimantan,34.4,91,Normal,Tidak,Ya,Rutin,5,1695000.0,4
+339,79,Perempuan,Sumatra,30.1,101,Normal,Tidak,Tidak,Kadang,1,2762000.0,5
+340,78,Laki-laki,Jawa,18.8,144,Tinggi,Tidak,Tidak,Jarang,2,1686000.0,3
+341,21,Perempuan,Jawa,18.1,160,Tinggi,Tidak,Tidak,Kadang,1,1761000.0,4
+342,30,Laki-laki,Bali-Nusa,27.5,139,Normal,Ya,Tidak,Kadang,3,2998000.0,5
+343,59,Perempuan,Jawa,21.9,91,Tinggi,Tidak,Tidak,Kadang,3,495000.0,1
+344,84,Perempuan,Sumatra,20.9,174,Tinggi,Tidak,Tidak,Rutin,1,2518000.0,3
+345,31,Perempuan,Sumatra,25.2,127,Normal,Tidak,Ya,Kadang,1,2116000.0,3
+346,70,Perempuan,Papua,18.9,153,Normal,Tidak,Tidak,Rutin,1,2793000.0,4
+347,7,Laki-laki,Jawa,21.9,98,Tinggi,Tidak,Tidak,Jarang,1,2497000.0,3
+348,77,Laki-laki,Jawa,24.6,164,Normal,Tidak,Ya,Kadang,3,1440000.0,5
+349,61,Laki-laki,Jawa,27.9,178,Normal,Ya,Tidak,Kadang,1,1203000.0,4
+350,88,Laki-laki,Sulawesi,26.0,116,Sangat Tinggi,Tidak,Tidak,Jarang,1,3178000.0,2
+351,27,Laki-laki,Sulawesi,24.8,94,Normal,Tidak,Ya,Jarang,0,2664000.0,2
+352,65,Perempuan,Jawa,32.2,170,Tinggi,Tidak,Tidak,Jarang,0,2210000.0,2
+353,16,Laki-laki,Jawa,20.0,113,Normal,Ya,Ya,Rutin,4,1453000.0,1
+354,1,Laki-laki,Jawa,16.3,91,Tinggi,Ya,Tidak,Kadang,6,1051000.0,5
+355,7,Perempuan,Kalimantan,23.5,128,Normal,Tidak,Tidak,Kadang,1,2622000.0,5
+356,37,Laki-laki,Kalimantan,25.1,172,Tinggi,Tidak,Tidak,Kadang,0,2282000.0,5
+357,19,Perempuan,Bali-Nusa,17.9,174,Normal,Tidak,Ya,Rutin,3,2713000.0,3
+358,63,Perempuan,Jawa,22.1,140,Tinggi,Ya,Tidak,Kadang,4,859000.0,1
+359,20,Laki-laki,Sumatra,28.2,96,Normal,Tidak,Tidak,Jarang,1,1698000.0,4
+360,89,Perempuan,Jawa,28.0,103,Normal,Tidak,Tidak,Kadang,3,1633000.0,5
+361,30,Laki-laki,Papua,20.8,166,Tinggi,Tidak,Ya,Kadang,0,1843000.0,4
+362,83,Laki-laki,Kalimantan,19.4,95,Normal,Tidak,Tidak,Kadang,3,2643000.0,3
+363,69,Perempuan,Sulawesi,26.7,148,Sangat Tinggi,Tidak,Ya,Rutin,0,406000.0,1
+364,14,Perempuan,Sulawesi,28.6,119,Tinggi,Tidak,Ya,Jarang,3,770000.0,5
+365,56,Perempuan,Sumatra,17.3,168,Normal,Ya,Tidak,Rutin,1,2843000.0,1
+366,0,Laki-laki,Bali-Nusa,23.9,177,Normal,Tidak,Ya,Jarang,2,2659000.0,1
+367,89,Perempuan,Jawa,23.4,164,Normal,Ya,Tidak,Rutin,2,2673000.0,2
+368,28,Perempuan,Jawa,20.4,121,Normal,Tidak,Ya,Kadang,3,2555000.0,1
+369,65,Perempuan,Papua,25.2,101,Tinggi,Ya,Tidak,Rutin,2,4246000.0,4
+370,21,Perempuan,Sulawesi,22.2,128,Normal,Tidak,Tidak,Kadang,3,1754000.0,3
+371,60,Laki-laki,Kalimantan,27.9,110,Normal,Tidak,Ya,Rutin,3,3167000.0,4
+372,28,Perempuan,Kalimantan,27.0,114,Normal,Tidak,Ya,Jarang,1,1965000.0,3
+373,8,Laki-laki,Kalimantan,17.4,176,Normal,Ya,Ya,Kadang,2,1144000.0,5
+374,40,Laki-laki,Bali-Nusa,15.7,107,Tinggi,Tidak,Tidak,Rutin,4,1055000.0,4
+375,20,Perempuan,Papua,27.7,144,Normal,Tidak,Ya,Kadang,1,2522000.0,2
+376,54,Perempuan,Bali-Nusa,30.4,179,Sangat Tinggi,Tidak,Tidak,Kadang,1,2719000.0,3
+377,39,Laki-laki,Papua,28.8,173,Sangat Tinggi,Tidak,Tidak,Kadang,3,2893000.0,1
+378,25,Perempuan,Jawa,27.9,130,Tinggi,Tidak,Tidak,Kadang,3,1010000.0,4
+379,47,Laki-laki,Papua,21.7,136,Normal,Tidak,Tidak,Rutin,2,1532000.0,5
+380,76,Laki-laki,Kalimantan,25.6,102,Normal,Tidak,Tidak,Kadang,4,2265000.0,3
+381,2,Laki-laki,Jawa,36.3,131,Tinggi,Tidak,Tidak,Rutin,0,2160000.0,2
+382,32,Laki-laki,Papua,25.1,92,Normal,Tidak,Tidak,Kadang,5,2057000.0,2
+383,41,Perempuan,Bali-Nusa,30.0,122,Tinggi,Ya,Ya,Jarang,1,1606000.0,5
+384,76,Laki-laki,Bali-Nusa,16.0,133,Tinggi,Tidak,Tidak,Kadang,1,4265000.0,2
+385,42,Laki-laki,Sumatra,25.7,91,Sangat Tinggi,Ya,Tidak,Jarang,1,2455000.0,4
+386,69,Perempuan,Kalimantan,24.2,111,Normal,Tidak,Ya,Jarang,4,2198000.0,5
+387,3,Perempuan,Sumatra,22.2,157,Normal,Tidak,Tidak,Kadang,1,2748000.0,4
+388,63,Perempuan,Sulawesi,27.9,129,Normal,Ya,Tidak,Rutin,1,2648000.0,5
+389,69,Laki-laki,Sumatra,27.7,103,Sangat Tinggi,Tidak,Tidak,Jarang,3,249000.0,1
+390,50,Perempuan,Kalimantan,23.3,155,Sangat Tinggi,Tidak,Tidak,Kadang,1,1443000.0,4
+391,66,Perempuan,Papua,26.4,105,Normal,Tidak,Tidak,Rutin,1,1211000.0,2
+392,83,Perempuan,Kalimantan,29.7,165,Tinggi,Ya,Tidak,Rutin,2,638000.0,2
+393,17,Perempuan,Jawa,29.8,146,Sangat Tinggi,Tidak,Ya,Kadang,0,2458000.0,1
+394,19,Perempuan,Jawa,20.6,128,Tinggi,Ya,Ya,Rutin,4,2276000.0,4
+395,29,Perempuan,Sulawesi,36.5,127,Tinggi,Tidak,Tidak,Jarang,2,1824000.0,4
+396,73,Perempuan,Sulawesi,27.4,120,Sangat Tinggi,Tidak,Tidak,Kadang,0,544000.0,4
+397,51,Laki-laki,Kalimantan,21.7,122,Normal,Tidak,Tidak,Kadang,2,2328000.0,3
+398,22,Perempuan,Sumatra,23.7,167,Sangat Tinggi,Ya,Tidak,Rutin,1,1263000.0,3
+399,46,Laki-laki,Sumatra,18.0,101,Tinggi,Tidak,Tidak,Kadang,3,1365000.0,4
+400,2,Laki-laki,Sumatra,19.8,171,Sangat Tinggi,Tidak,Ya,Kadang,3,1762000.0,3
+401,49,Laki-laki,Bali-Nusa,25.1,124,Sangat Tinggi,Tidak,Tidak,Jarang,2,2158000.0,3
+402,8,Perempuan,Sumatra,17.0,98,Sangat Tinggi,Ya,Tidak,Rutin,0,2075000.0,5
+403,18,Laki-laki,Papua,21.5,115,Tinggi,Ya,Ya,Rutin,4,1854000.0,3
+404,35,Laki-laki,Sulawesi,21.2,101,Tinggi,Tidak,Ya,Kadang,2,1752000.0,2
+405,39,Laki-laki,Sumatra,23.2,164,Sangat Tinggi,Tidak,Tidak,Rutin,2,1796000.0,4
+406,26,Perempuan,Jawa,16.1,158,Normal,Tidak,Ya,Kadang,2,1599000.0,5
+407,71,Perempuan,Jawa,24.0,97,Normal,Tidak,Tidak,Kadang,2,1113000.0,5
+408,71,Laki-laki,Kalimantan,26.4,166,Normal,Tidak,Tidak,Jarang,2,1148000.0,4
+409,81,Perempuan,Kalimantan,25.9,162,Tinggi,Ya,Tidak,Rutin,3,2735000.0,5
+410,20,Perempuan,Sulawesi,14.1,131,Normal,Tidak,Ya,Kadang,2,2845000.0,1
+411,12,Laki-laki,Jawa,31.1,125,Tinggi,Tidak,Tidak,Kadang,0,1780000.0,1
+412,26,Laki-laki,Sumatra,31.4,162,Normal,Ya,Tidak,Jarang,2,1196000.0,5
+413,61,Laki-laki,Papua,22.5,148,Normal,Tidak,Tidak,Jarang,2,1489000.0,1
+414,39,Laki-laki,Bali-Nusa,32.8,115,Normal,Tidak,Ya,Jarang,3,2122000.0,5
+415,52,Perempuan,Kalimantan,23.4,137,Normal,Tidak,Tidak,Rutin,2,2588000.0,3
+416,79,Perempuan,Bali-Nusa,22.0,132,Sangat Tinggi,Ya,Tidak,Rutin,3,2131000.0,2
+417,39,Perempuan,Papua,18.8,152,Tinggi,Tidak,Ya,Rutin,1,1730000.0,1
+418,8,Perempuan,Bali-Nusa,23.7,173,Tinggi,Tidak,Tidak,Rutin,3,2993000.0,4
+419,26,Laki-laki,Kalimantan,23.3,177,Tinggi,Tidak,Tidak,Rutin,0,3536000.0,3
+420,80,Laki-laki,Papua,22.5,90,Tinggi,Tidak,Tidak,Rutin,3,2630000.0,1
+421,2,Perempuan,Papua,25.2,143,Tinggi,Tidak,Ya,Kadang,3,824000.0,2
+422,55,Laki-laki,Bali-Nusa,25.3,178,Normal,Tidak,Tidak,Rutin,2,1750000.0,2
+423,52,Laki-laki,Bali-Nusa,16.8,147,Normal,Tidak,Ya,Rutin,3,3245000.0,4
+424,3,Perempuan,Kalimantan,28.6,100,Normal,Tidak,Ya,Rutin,2,1487000.0,4
+425,39,Perempuan,Kalimantan,27.9,158,Sangat Tinggi,Tidak,Tidak,Rutin,2,2172000.0,1
+426,51,Perempuan,Sulawesi,23.8,167,Sangat Tinggi,Tidak,Tidak,Jarang,1,2140000.0,5
+427,55,Perempuan,Sumatra,23.2,171,Normal,Tidak,Ya,Rutin,5,2355000.0,3
+428,64,Laki-laki,Bali-Nusa,22.6,174,Tinggi,Tidak,Ya,Kadang,0,478000.0,5
+429,77,Perempuan,Sumatra,21.7,143,Normal,Tidak,Ya,Jarang,1,2701000.0,1
+430,71,Perempuan,Bali-Nusa,19.2,150,Tinggi,Tidak,Tidak,Rutin,3,2404000.0,1
+431,70,Laki-laki,Papua,18.7,138,Normal,Ya,Tidak,Kadang,2,1326000.0,5
+432,29,Perempuan,Sulawesi,29.2,144,Tinggi,Tidak,Ya,Jarang,3,1943000.0,1
+433,24,Laki-laki,Kalimantan,33.1,152,Normal,Tidak,Tidak,Jarang,4,3359000.0,4
+434,38,Perempuan,Kalimantan,28.3,158,Tinggi,Tidak,Tidak,Jarang,3,511000.0,1
+435,79,Perempuan,Papua,21.8,167,Normal,Ya,Ya,Rutin,3,845000.0,2
+436,74,Laki-laki,Sulawesi,24.3,124,Normal,Tidak,Ya,Rutin,1,1432000.0,2
+437,24,Perempuan,Papua,19.8,162,Normal,Tidak,Tidak,Kadang,3,2620000.0,4
+438,32,Perempuan,Sumatra,22.7,100,Normal,Tidak,Ya,Kadang,4,1236000.0,2
+439,62,Laki-laki,Kalimantan,27.5,93,Normal,Tidak,Ya,Jarang,0,1987000.0,5
+440,53,Perempuan,Sulawesi,18.3,161,Tinggi,Tidak,Tidak,Jarang,0,3524000.0,3
+441,50,Perempuan,Kalimantan,16.9,140,Normal,Tidak,Ya,Kadang,1,2866000.0,4
+442,84,Laki-laki,Papua,26.8,153,Normal,Tidak,Tidak,Rutin,4,919000.0,3
+443,51,Laki-laki,Sulawesi,19.8,167,Sangat Tinggi,Ya,Tidak,Rutin,2,2386000.0,4
+444,51,Laki-laki,Bali-Nusa,21.0,134,Sangat Tinggi,Tidak,Tidak,Kadang,4,1090000.0,4
+445,73,Perempuan,Sumatra,18.6,155,Tinggi,Tidak,Ya,Rutin,6,1041000.0,2
+446,55,Perempuan,Bali-Nusa,22.5,118,Tinggi,Ya,Tidak,Rutin,2,2406000.0,3
+447,72,Perempuan,Sulawesi,22.2,173,Tinggi,Ya,Ya,Jarang,6,1492000.0,2
+448,0,Laki-laki,Papua,26.0,95,Tinggi,Tidak,Ya,Jarang,0,3162000.0,3
+449,30,Perempuan,Kalimantan,22.1,101,Tinggi,Tidak,Tidak,Rutin,2,1070000.0,4
+450,20,Laki-laki,Papua,21.4,105,Tinggi,Tidak,Tidak,Jarang,2,2223000.0,4
+451,23,Laki-laki,Sulawesi,29.7,135,Normal,Tidak,Tidak,Kadang,2,1359000.0,5
+452,18,Perempuan,Bali-Nusa,21.6,91,Sangat Tinggi,Tidak,Tidak,Jarang,1,1211000.0,3
+453,60,Laki-laki,Sulawesi,24.6,129,Normal,Tidak,Tidak,Kadang,3,2578000.0,2
+454,59,Perempuan,Bali-Nusa,28.2,94,Normal,Tidak,Tidak,Kadang,1,2470000.0,1
+455,84,Perempuan,Papua,27.2,136,Normal,Tidak,Tidak,Kadang,2,2436000.0,5
+456,24,Perempuan,Sumatra,28.9,109,Normal,Tidak,Tidak,Jarang,4,3016000.0,4
+457,19,Perempuan,Sumatra,25.7,152,Tinggi,Ya,Tidak,Kadang,0,508000.0,3
+458,25,Laki-laki,Jawa,28.7,101,Tinggi,Tidak,Tidak,Rutin,1,1812000.0,5
+459,6,Laki-laki,Jawa,22.3,105,Normal,Tidak,Ya,Rutin,1,2277000.0,3
+460,66,Perempuan,Bali-Nusa,30.5,119,Normal,Tidak,Tidak,Kadang,2,1450000.0,1
+461,55,Laki-laki,Kalimantan,24.7,109,Tinggi,Tidak,Ya,Jarang,2,1929000.0,1
+462,71,Perempuan,Kalimantan,31.4,174,Sangat Tinggi,Ya,Ya,Jarang,2,1349000.0,3
+463,10,Perempuan,Kalimantan,28.4,159,Normal,Tidak,Tidak,Rutin,2,1923000.0,2
+464,71,Perempuan,Kalimantan,28.3,98,Normal,Tidak,Ya,Rutin,3,1338000.0,2
+465,16,Perempuan,Jawa,27.7,92,Normal,Tidak,Tidak,Rutin,6,1535000.0,3
+466,71,Laki-laki,Sumatra,26.7,109,Tinggi,Tidak,Ya,Jarang,3,1786000.0,1
+467,46,Laki-laki,Bali-Nusa,22.0,151,Normal,Ya,Tidak,Jarang,5,1859000.0,5
+468,43,Laki-laki,Kalimantan,20.0,126,Tinggi,Tidak,Tidak,Jarang,4,1231000.0,4
+469,63,Laki-laki,Bali-Nusa,19.6,146,Normal,Tidak,Tidak,Kadang,0,2063000.0,3
+470,29,Laki-laki,Jawa,26.5,106,Sangat Tinggi,Tidak,Tidak,Kadang,0,2451000.0,5
+471,42,Perempuan,Sumatra,27.4,104,Tinggi,Tidak,Tidak,Kadang,1,2227000.0,3
+472,15,Laki-laki,Sumatra,23.0,108,Sangat Tinggi,Tidak,Tidak,Kadang,2,2473000.0,4
+473,3,Perempuan,Sumatra,32.2,166,Normal,Tidak,Tidak,Kadang,2,2893000.0,4
+474,84,Perempuan,Bali-Nusa,23.6,139,Tinggi,Tidak,Tidak,Kadang,2,3289000.0,3
+475,49,Perempuan,Jawa,23.0,112,Normal,Tidak,Tidak,Kadang,2,1994000.0,1
+476,33,Perempuan,Bali-Nusa,20.8,177,Normal,Ya,Ya,Rutin,4,2667000.0,1
+477,34,Perempuan,Jawa,21.0,113,Normal,Tidak,Tidak,Kadang,3,1434000.0,2
+478,63,Laki-laki,Papua,25.9,116,Normal,Tidak,Tidak,Kadang,1,546000.0,3
+479,12,Perempuan,Papua,18.9,112,Normal,Tidak,Tidak,Kadang,0,1814000.0,2
+480,26,Laki-laki,Jawa,23.2,165,Normal,Ya,Tidak,Rutin,0,1448000.0,5
+481,71,Laki-laki,Kalimantan,28.5,100,Sangat Tinggi,Tidak,Ya,Rutin,1,2526000.0,1
+482,40,Perempuan,Sumatra,24.9,161,Tinggi,Tidak,Tidak,Kadang,1,2190000.0,4
+483,41,Laki-laki,Papua,23.8,113,Tinggi,Tidak,Tidak,Jarang,1,830000.0,2
+484,28,Laki-laki,Papua,26.5,99,Normal,Tidak,Tidak,Kadang,1,1686000.0,1
+485,15,Perempuan,Sumatra,26.6,177,Normal,Tidak,Tidak,Kadang,1,1855000.0,2
+486,52,Perempuan,Papua,27.1,164,Sangat Tinggi,Tidak,Tidak,Jarang,3,2538000.0,1
+487,45,Laki-laki,Sulawesi,23.1,122,Tinggi,Tidak,Ya,Kadang,4,1275000.0,4
+488,68,Laki-laki,Sulawesi,23.4,102,Normal,Tidak,Tidak,Jarang,2,3538000.0,4
+489,36,Laki-laki,Papua,19.3,117,Sangat Tinggi,Tidak,Tidak,Jarang,3,1853000.0,1
+490,59,Perempuan,Kalimantan,17.6,158,Normal,Tidak,Ya,Rutin,2,2330000.0,2
+491,73,Perempuan,Sulawesi,28.0,106,Normal,Tidak,Tidak,Kadang,4,2074000.0,2
+492,14,Laki-laki,Kalimantan,23.3,125,Tinggi,Tidak,Tidak,Kadang,2,2583000.0,4
+493,20,Laki-laki,Jawa,18.4,109,Normal,Tidak,Tidak,Rutin,5,2507000.0,1
+494,33,Perempuan,Sumatra,24.2,157,Normal,Ya,Ya,Kadang,2,2544000.0,5
+495,85,Perempuan,Papua,38.7,117,Tinggi,Tidak,Tidak,Rutin,0,952000.0,3
+496,85,Perempuan,Sulawesi,12.9,143,Sangat Tinggi,Tidak,Tidak,Kadang,3,1929000.0,4
+497,8,Perempuan,Bali-Nusa,28.2,151,Normal,Tidak,Tidak,Jarang,2,2185000.0,4
+498,25,Laki-laki,Kalimantan,15.7,105,Normal,Tidak,Tidak,Kadang,4,1865000.0,5
+499,76,Perempuan,Papua,18.5,142,Tinggi,Tidak,Tidak,Rutin,1,2098000.0,1
+500,17,Laki-laki,Jawa,19.1,119,Normal,Tidak,Ya,Jarang,1,2006000.0,1
