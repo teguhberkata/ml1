@@ -1,0 +1,11 @@
+ID;Skor Kredit;Jenis Pekerjaan;Pendapatan;Status Perkawinan;Pinjaman
+1;780;Tetap;12;Menikah;Disetujui
+2;640;Kontrak;6;Lajang;Ditolak
+3;720;Wirausaha;8,5;Menikah;Disetujui
+4;590;Freelancer;4;Lajang;Ditolak
+5;810;Tetap;15;Menikah;Disetujui
+6;700;Kontrak;7;Menikah;Disetujui
+7;610;Wirausaha;5,5;Cerai;Ditolak
+8;680;Tetap;9;Lajang;Disetujui
+9;560;Kontrak;3,8;Lajang;Ditolak
+10;750;Wirausaha;11;Menikah;Disetujui
